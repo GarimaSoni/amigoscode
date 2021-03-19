@@ -1,0 +1,17 @@
+h1
+{
+    border: 20px dotted brown;
+    /* padding-left: 40px;
+   padding-top: 40px; */
+   /*padding: 40px; padding done equally in all directions*/
+   /*  padding: 20px 40px;  20px for top-down and 40px for right-left*/
+   /* padding: 20px 30px 40px 50px; Shortcut in clockwise dir top right bottom left*/
+   padding: 10px;
+   /* margin-left: 50px;
+   margin: 40px 70px; */
+   width: 500px;
+   margin: 20px auto ;
+  /* text-align: center;*/
+  background: lightblue;
+
+}
