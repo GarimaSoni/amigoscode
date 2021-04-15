@@ -1,1 +1,0 @@
-I am using this file to revise all the operations performed in git.
